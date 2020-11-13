@@ -1,0 +1,13 @@
+.wrapper {
+    width: 1300px;
+    margin: auto;
+}
+
+.primary-color-bg {
+    background-color: #1E72FB;
+}
+
+.body {
+    background-image: url('./bg.png');
+    height: 1920px;
+}

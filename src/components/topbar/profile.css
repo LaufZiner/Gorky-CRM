@@ -1,0 +1,26 @@
+.profile .group-name-role {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    color: white;
+}
+
+.profile .name {
+    font-weight: bolder;
+}
+
+.profile .role {
+    font-weight: normal;
+}
+
+.profile {
+    display: flex;
+    align-items: center;
+}
+
+.profile img {
+    border-radius: 100%;
+    width: 64px;
+    height: 64px;
+    margin-left: 6px;
+}

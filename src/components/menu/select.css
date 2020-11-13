@@ -1,0 +1,9 @@
+.select {
+    display: flex;
+    align-items: center;
+}
+
+
+.select > div.name {
+    padding-left: 6px;
+}
